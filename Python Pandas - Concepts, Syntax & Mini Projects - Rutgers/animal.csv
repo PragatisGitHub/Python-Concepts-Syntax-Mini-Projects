@@ -1,0 +1,6 @@
+,Animal,Age,Visits,Priority
+a,Cat,2.0,1,Yes
+b,Horse,5.0,2,No
+c,Dog,3.0,1,Yes
+d,Monkey,4.0,3,No
+e,Cow,,2,Yes
